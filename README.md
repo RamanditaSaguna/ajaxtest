@@ -2,7 +2,7 @@
 
 A modern, responsive, and easy-to-integrate contact form that uses AJAX to submit data without page refresh. Built with PHP for server-side processing, jQuery for seamless client-side validation and interaction, and Bootstrap for a clean, professional look.
 
-![Contact Form Demo](/Users/ramanditasaguna/Downloads/pwebnew/base.png)
+![Contact Form Demo](base.png)
 
 *A preview of the contact form in action.*
 
@@ -40,52 +40,15 @@ Follow these steps to get the contact form up and running on your website.
 -   A web server with PHP support (PHP 5.6+ recommended).
 -   Basic knowledge of HTML and PHP.
 
-### Installation & Configuration
-
-1.  **Download or Clone:**
-
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
-    Or download the ZIP file and extract it.
-
-2.  **Upload to Server:**
-
-    Upload the entire `pwebnew` folder to your web server.
-
-3.  **Configure Email Address:**
-
-    Open `process.php` and change the placeholder email address in the `$to` variable to your own:
-
-    ```php
-    // ...
-    $to = 'your@email.com'; // <-- CHANGE THIS
-    // ...
-    ```
-
-4.  **Test the Form:**
-
-    Open the `index.html` file in your browser and submit a test message to ensure everything is working correctly.
 
 ## 🖼️ Screenshots
 
 ### Form View
 
-![Form View](/Users/ramanditasaguna/Downloads/pwebnew/inputphoto.png)
+![Form View](inputphoto.png)
 
-*The initial view of the contact form.*
 
 ### Success Message
 
-![Success Message](/Users/ramanditasaguna/Downloads/pwebnew/success.png)
+![Success Message](success.png)
 
-*The success message displayed after a successful submission.*
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues).
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
