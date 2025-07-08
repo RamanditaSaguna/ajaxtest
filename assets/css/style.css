@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.error {
+    color: red;
+}
